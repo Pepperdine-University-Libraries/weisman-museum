@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://pepperdinelibraries.github.io #https://www.lib.uidaho.edu
+url: https://pepperdine-university-libraries.github.io #https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /weisman-museum #/demo/psychiana
 # location of code, the full url to your github repository
-source-code: https://pepperdinelibraries.github.io/weisman-museum/ #https://github.com/CollectionBuilder
+source-code: https://github.com/Pepperdine-University-Libraries/weisman-museum #https://github.com/CollectionBuilder
 
 ##########
 # SITE SETTINGS
