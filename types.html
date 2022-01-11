@@ -121,7 +121,7 @@
 <p>Use this word cloud visualization to browse terms and subjects.
 Word size is determined by frequency and all words link to a corresponding collection search.</p>
 
-<div id="cloud-div-creator-object-type" class="text-center my-4 bg-light border rounded p-2"></div>
+<div id="cloud-div-site-data-theme-object-type-fields" class="text-center my-4 bg-light border rounded p-2"></div>
 <script>
 (function(){    
     /* subject terms + count */
@@ -133,7 +133,7 @@ Word size is determined by frequency and all words link to a corresponding colle
     /* calculate max size */
     var counts = terms.map(function(obj){ return obj[1]; });
     var countMax = counts.reduce(function(a, b) { return Math.max(a, b); });
-    var cloud = document.getElementById("cloud-div-creator-object-type");
+    var cloud = document.getElementById("cloud-div-site-data-theme-object-type-fields");
     
     function mapSize(x) { return Math.round(x * 9 / countMax + 1); }
     /* create cloud */
