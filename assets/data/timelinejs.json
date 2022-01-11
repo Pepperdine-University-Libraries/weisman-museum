@@ -15,7 +15,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/8/full/pct:40/0/default.jpg",
           "caption": "Cougar II",
-          "link": "/weisman-museum/items/weisman8.html",
+          "link": "/weisman-museum/items/coll008.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -28,11 +28,11 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/11/full/pct:40/0/default.jpg",
           "caption": "Quasar-Light",
-          "link": "/weisman-museum/items/weisman11.html",
+          "link": "/weisman-museum/items/coll0011.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
-          "year": "1974"
+          "year": "1974, 1978"
         },
         "text": {
           "headline": "Quasar-Light"
@@ -41,7 +41,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/14/full/pct:40/0/default.jpg",
           "caption": "Carmen from the Merry Go World",
-          "link": "/weisman-museum/items/weisman14.html",
+          "link": "/weisman-museum/items/coll0014.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -54,7 +54,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/17/full/pct:40/0/default.jpg",
           "caption": "Celia, Malibu",
-          "link": "/weisman-museum/items/weisman17.html",
+          "link": "/weisman-museum/items/coll0017.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -67,7 +67,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/20/full/pct:40/0/default.jpg",
           "caption": "Peoria",
-          "link": "/weisman-museum/items/weisman20.html",
+          "link": "/weisman-museum/items/coll0020.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -80,7 +80,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/23/full/pct:40/0/default.jpg",
           "caption": "Five Guys Named Moe",
-          "link": "/weisman-museum/items/weisman23.html",
+          "link": "/weisman-museum/items/coll0023.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -93,7 +93,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/24/full/pct:40/0/default.jpg",
           "caption": "E-1957",
-          "link": "/weisman-museum/items/weisman24.html",
+          "link": "/weisman-museum/items/coll0024.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -106,7 +106,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/25/full/pct:40/0/default.jpg",
           "caption": "Culver Track A Section I",
-          "link": "/weisman-museum/items/weisman25.html",
+          "link": "/weisman-museum/items/coll0025.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -119,7 +119,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/26/full/pct:40/0/default.jpg",
           "caption": "Fool's House",
-          "link": "/weisman-museum/items/weisman26.html",
+          "link": "/weisman-museum/items/coll0026.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -132,7 +132,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/27/full/pct:40/0/default.jpg",
           "caption": "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)",
-          "link": "/weisman-museum/items/weisman27.html",
+          "link": "/weisman-museum/items/coll0027.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -145,7 +145,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/29/full/pct:40/0/default.jpg",
           "caption": "Untitled",
-          "link": "/weisman-museum/items/weisman29.html",
+          "link": "/weisman-museum/items/coll0029.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -158,7 +158,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/30/full/pct:40/0/default.jpg",
           "caption": "Waiting for Spring",
-          "link": "/weisman-museum/items/weisman30.html",
+          "link": "/weisman-museum/items/coll0030.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -171,7 +171,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/31/full/pct:40/0/default.jpg",
           "caption": "Wagu #1",
-          "link": "/weisman-museum/items/weisman31.html",
+          "link": "/weisman-museum/items/coll0031.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -184,7 +184,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/32/full/pct:40/0/default.jpg",
           "caption": "Man with One Hand to Face",
-          "link": "/weisman-museum/items/weisman32.html",
+          "link": "/weisman-museum/items/coll0032.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -197,7 +197,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/33/full/pct:40/0/default.jpg",
           "caption": "Acceptance of Longing (Study) II",
-          "link": "/weisman-museum/items/weisman33.html",
+          "link": "/weisman-museum/items/coll0033.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -210,7 +210,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/34/full/pct:40/0/default.jpg",
           "caption": "Robert's Dilemma",
-          "link": "/weisman-museum/items/weisman34.html",
+          "link": "/weisman-museum/items/coll0034.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -223,7 +223,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/35/full/pct:40/0/default.jpg",
           "caption": "Chicago",
-          "link": "/weisman-museum/items/weisman35.html",
+          "link": "/weisman-museum/items/coll0035.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -236,7 +236,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/36/full/pct:40/0/default.jpg",
           "caption": "N-1957",
-          "link": "/weisman-museum/items/weisman36.html",
+          "link": "/weisman-museum/items/coll0036.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -249,7 +249,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/37/full/pct:40/0/default.jpg",
           "caption": "Walking Man",
-          "link": "/weisman-museum/items/weisman37.html",
+          "link": "/weisman-museum/items/coll0037.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -262,7 +262,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/38/full/pct:40/0/default.jpg",
           "caption": "Llave",
-          "link": "/weisman-museum/items/weisman38.html",
+          "link": "/weisman-museum/items/coll0038.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -275,7 +275,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/39/full/pct:40/0/default.jpg",
           "caption": "Untitled (From the Grand Hotel series)",
-          "link": "/weisman-museum/items/weisman39.html",
+          "link": "/weisman-museum/items/coll0039.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -288,7 +288,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/40/full/pct:40/0/default.jpg",
           "caption": "Wrapped Tree Project",
-          "link": "/weisman-museum/items/weisman40.html",
+          "link": "/weisman-museum/items/coll0040.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -301,7 +301,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/41/full/pct:40/0/default.jpg",
           "caption": "S-1957",
-          "link": "/weisman-museum/items/weisman41.html",
+          "link": "/weisman-museum/items/coll0041.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -314,7 +314,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/42/full/pct:40/0/default.jpg",
           "caption": "Distant Hills",
-          "link": "/weisman-museum/items/weisman42.html",
+          "link": "/weisman-museum/items/coll0042.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -327,7 +327,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/43/full/pct:40/0/default.jpg",
           "caption": "Oriental Landscape",
-          "link": "/weisman-museum/items/weisman43.html",
+          "link": "/weisman-museum/items/coll0043.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -340,7 +340,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/44/full/pct:40/0/default.jpg",
           "caption": "The Billionaire Deluxe",
-          "link": "/weisman-museum/items/weisman44.html",
+          "link": "/weisman-museum/items/coll0044.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -353,7 +353,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/45/full/pct:40/0/default.jpg",
           "caption": "Admirer",
-          "link": "/weisman-museum/items/weisman45.html",
+          "link": "/weisman-museum/items/coll0045.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -366,7 +366,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/46/full/pct:40/0/default.jpg",
           "caption": "Thursday August 1st 1968 Fresno #2",
-          "link": "/weisman-museum/items/weisman46.html",
+          "link": "/weisman-museum/items/coll0046.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -379,7 +379,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/47/full/pct:40/0/default.jpg",
           "caption": "Red Badge of Course #10",
-          "link": "/weisman-museum/items/weisman47.html",
+          "link": "/weisman-museum/items/coll0047.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -392,7 +392,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/48/full/pct:40/0/default.jpg",
           "caption": "Cover II",
-          "link": "/weisman-museum/items/weisman48.html",
+          "link": "/weisman-museum/items/coll0048.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -405,7 +405,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/49/full/pct:40/0/default.jpg",
           "caption": "H-1957",
-          "link": "/weisman-museum/items/weisman49.html",
+          "link": "/weisman-museum/items/coll0049.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -418,7 +418,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/50/full/pct:40/0/default.jpg",
           "caption": "Haku Mele",
-          "link": "/weisman-museum/items/weisman50.html",
+          "link": "/weisman-museum/items/coll0050.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -431,7 +431,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/51/full/pct:40/0/default.jpg",
           "caption": "Untitled",
-          "link": "/weisman-museum/items/weisman51.html",
+          "link": "/weisman-museum/items/coll0051.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -444,7 +444,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/52/full/pct:40/0/default.jpg",
           "caption": "Untitled",
-          "link": "/weisman-museum/items/weisman52.html",
+          "link": "/weisman-museum/items/coll0052.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -457,7 +457,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/53/full/pct:40/0/default.jpg",
           "caption": "Phil (BAM)",
-          "link": "/weisman-museum/items/weisman53.html",
+          "link": "/weisman-museum/items/coll0053.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -470,7 +470,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/54/full/pct:40/0/default.jpg",
           "caption": "Briar Hopper",
-          "link": "/weisman-museum/items/weisman54.html",
+          "link": "/weisman-museum/items/coll0054.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -483,7 +483,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/55/full/pct:40/0/default.jpg",
           "caption": "Cat Face Woman",
-          "link": "/weisman-museum/items/weisman55.html",
+          "link": "/weisman-museum/items/coll0055.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -496,7 +496,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/56/full/pct:40/0/default.jpg",
           "caption": "Neighbourhood Ridge",
-          "link": "/weisman-museum/items/weisman56.html",
+          "link": "/weisman-museum/items/coll0056.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -509,7 +509,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/57/full/pct:40/0/default.jpg",
           "caption": "A Lot More of Ann Combing her Hair",
-          "link": "/weisman-museum/items/weisman57.html",
+          "link": "/weisman-museum/items/coll0057.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -522,7 +522,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/58/full/pct:40/0/default.jpg",
           "caption": "The Only Way Out Is In",
-          "link": "/weisman-museum/items/weisman58.html",
+          "link": "/weisman-museum/items/coll0058.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -535,7 +535,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/59/full/pct:40/0/default.jpg",
           "caption": "100 Breaths, #75 and 100 Breaths, #106",
-          "link": "/weisman-museum/items/weisman59.html",
+          "link": "/weisman-museum/items/coll0059.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -548,7 +548,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/60/full/pct:40/0/default.jpg",
           "caption": "Untitled (MELBK 84)",
-          "link": "/weisman-museum/items/weisman60.html",
+          "link": "/weisman-museum/items/coll0060.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
@@ -561,7 +561,7 @@
         "media": {
           "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/61/full/pct:40/0/default.jpg",
           "caption": "Vino",
-          "link": "/weisman-museum/items/weisman61.html",
+          "link": "/weisman-museum/items/coll0061.html",
           "credit": "Frederick R. Weisman Museum of Art Collection"
         },
         "start_date": { 
