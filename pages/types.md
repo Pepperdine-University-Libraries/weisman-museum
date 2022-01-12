@@ -1,5 +1,5 @@
 ---
-title: Creators and Types
+title: Types
 layout: cloud
 permalink: /types.html
 # Default subject page is configured in "_data/theme.yml"
