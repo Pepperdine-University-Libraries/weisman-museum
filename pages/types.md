@@ -4,7 +4,7 @@ layout: cloud
 permalink: /types.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.subjects-fields"
-cloud-fields: site.data.theme.object-type-fields
+cloud-fields: site.data.theme.medium-fields
 ---
 
 ## Browse Creators and Types
