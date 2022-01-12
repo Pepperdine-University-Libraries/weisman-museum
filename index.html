@@ -187,7 +187,7 @@
 (function(){
     /* add item data */
     //title,youtubeid/cdmid,objectid,collectionid
-    var carouselItems = [ [ "Cougar II", "6", "", "p15730coll35" ], [ "Cougar II", "7", "", "p15730coll35" ], [ "Cougar II", "8", "weisman8", "p15730coll35" ], [ "Quasar-Light", "9", "", "p15730coll35" ], [ "Quasar-Light", "10", "", "p15730coll35" ], [ "Quasar-Light", "11", "weisman11", "p15730coll35" ], [ "Carmen from the Merry Go World", "12", "", "p15730coll35" ], [ "Carmen from the Merry Go World", "13", "", "p15730coll35" ], [ "Carmen from the Merry Go World", "14", "weisman14", "p15730coll35" ], [ "Celia, Malibu", "15", "", "p15730coll35" ], [ "Celia, Malibu", "16", "", "p15730coll35" ], [ "Celia, Malibu", "17", "weisman17", "p15730coll35" ], [ "Peoria", "18", "", "p15730coll35" ], [ "Peoria", "19", "", "p15730coll35" ], [ "Peoria", "20", "weisman20", "p15730coll35" ], [ "Five Guys Named Moe", "21", "", "p15730coll35" ], [ "Five Guys Named Moe", "22", "", "p15730coll35" ], [ "Five Guys Named Moe", "23", "weisman23", "p15730coll35" ], [ "E-1957", "24", "weisman24", "p15730coll35" ], [ "Culver Track A Section I", "25", "weisman25", "p15730coll35" ], [ "Fool&#39;s House", "26", "weisman26", "p15730coll35" ], [ "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)", "27", "weisman27", "p15730coll35" ], [ "Untitled (From Torn Sky series)", "28", "weisman28", "p15730coll35" ], [ "Untitled", "29", "weisman29", "p15730coll35" ], [ "Waiting for Spring", "30", "weisman30", "p15730coll35" ], [ "Wagu #1", "31", "weisman31", "p15730coll35" ], [ "Man with One Hand to Face", "32", "weisman32", "p15730coll35" ], [ "Acceptance of Longing (Study) II", "33", "weisman33", "p15730coll35" ], [ "Robert&#39;s Dilemma", "34", "weisman34", "p15730coll35" ], [ "Chicago", "35", "weisman35", "p15730coll35" ], [ "N-1957", "36", "weisman36", "p15730coll35" ], [ "Walking Man", "37", "weisman37", "p15730coll35" ], [ "Llave", "38", "weisman38", "p15730coll35" ], [ "Untitled (From the Grand Hotel series)", "39", "weisman39", "p15730coll35" ], [ "Wrapped Tree Project", "40", "weisman40", "p15730coll35" ], [ "S-1957", "41", "weisman41", "p15730coll35" ], [ "Distant Hills", "42", "weisman42", "p15730coll35" ], [ "Oriental Landscape", "43", "weisman43", "p15730coll35" ], [ "The Billionaire Deluxe", "44", "weisman44", "p15730coll35" ], [ "Admirer", "45", "weisman45", "p15730coll35" ], [ "Thursday August 1st 1968 Fresno #2", "46", "weisman46", "p15730coll35" ], [ "Red Badge of Course #10", "47", "weisman47", "p15730coll35" ], [ "Cover II", "48", "weisman48", "p15730coll35" ], [ "H-1957", "49", "weisman49", "p15730coll35" ], [ "Haku Mele", "50", "weisman50", "p15730coll35" ], [ "Untitled", "51", "weisman51", "p15730coll35" ], [ "Untitled", "52", "weisman52", "p15730coll35" ], [ "Phil (BAM)", "53", "weisman53", "p15730coll35" ], [ "Briar Hopper", "54", "weisman54", "p15730coll35" ], [ "Cat Face Woman", "55", "weisman55", "p15730coll35" ], [ "Neighbourhood Ridge", "56", "weisman56", "p15730coll35" ], [ "A Lot More of Ann Combing her Hair", "57", "weisman57", "p15730coll35" ], [ "The Only Way Out Is In", "58", "weisman58", "p15730coll35" ], [ "100 Breaths, #75 and 100 Breaths, #106", "59", "weisman59", "p15730coll35" ], [ "Untitled (MELBK 84)", "60", "weisman60", "p15730coll35" ], [ "Vino", "61", "weisman61", "p15730coll35" ]];
+    var carouselItems = [ ];
     var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
@@ -198,7 +198,7 @@
     var slides = "";
     var indicators = "";
     var i, itemImg, itemLink;
-    for (i=0; i < 9; i++) {
+    for (i=0; i < 0; i++) {
         // calculate item image location
         itemImg = "https://cdm15730.contentdm.oclc.org/digital/iiif/" + carouselItems[i][3] + "/" + carouselItems[i][1] + "/full/,450/0/default.jpg";
         // calculate item link
@@ -230,7 +230,7 @@
     <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Time Span</h5>
-    <p class="card-text h5">1957 to 1997
+    <p class="card-text h5"> to 
       <br><a href="/weisman-museum/timeline.html" class="btn btn-sm btn-outline-secondary mt-2">View Timeline</a>
     </p>
   </div>
@@ -243,11 +243,7 @@
         <h5 class="card-title">Top Creators</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#mclaughlin,%20john">mclaughlin, john</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#hockney,%20david">hockney, david</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#moses,%20ed">moses, ed</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#murrill,%20gwynn">murrill, gwynn</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#stanczak,%20julian">stanczak, julian</a>
+            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html"></a>
         </p>
     </div>
 </div>
@@ -259,11 +255,7 @@
         <h5 class="card-title">Types</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#painting">painting</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#sculpture">sculpture</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#mixed%20media">mixed media</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#drawing">drawing</a>
-            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html#lithographs">lithographs</a>
+            <a class="btn btn-sm btn-info m-1" href="/weisman-museum/browse.html"></a>
         </p>
     </div>
 </div>
@@ -273,10 +265,6 @@
   <div class="card-body">
     <h5 class="card-title">Objects</h5>
     <p class="card-text"> 
-      
-      56
-       
-      <a class="text-dark" href="/weisman-museum/browse.html#image">Images <span class="far fa-image"></span></a><br>
       <a class="btn btn-sm btn-outline-secondary mt-2" href="/weisman-museum/data.html">View table</a>
     </p>
   </div>
