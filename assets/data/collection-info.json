@@ -8,9 +8,10 @@
         "url": "https://www.lib.uidaho.edu/digital/", 
         "logo": "https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png" 
     },
-    "date_start": "",
-    "date_end": "",
+    "date_start": "1957",
+    "date_end": "1997",
     "objects": {
+        "image/jpeg": "56"
         
     },
     "data": "https://pepperdine-university-libraries.github.io/weisman-museum/assets/data/datapackage.json",
