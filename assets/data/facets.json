@@ -8,7 +8,6 @@
         {
             "field": "format",
             "terms": { 
-                "image/jpeg": 56
             }
         },
         {
