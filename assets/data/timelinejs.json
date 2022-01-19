@@ -11,6 +11,565 @@
         }
     },
     "events": [
-      
+      {
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/8/full/pct:20/0/default.jpg",
+          "caption": "Cougar II",
+          "link": "/weisman-museum/items/coll008.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Cougar II"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/11/full/pct:20/0/default.jpg",
+          "caption": "Quasar-Light",
+          "link": "/weisman-museum/items/coll0011.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1974, 1978"
+        },
+        "text": {
+          "headline": "Quasar-Light"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/14/full/pct:20/0/default.jpg",
+          "caption": "Carmen from the Merry Go World",
+          "link": "/weisman-museum/items/coll0014.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Carmen from the Merry Go World"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/17/full/pct:20/0/default.jpg",
+          "caption": "Celia, Malibu",
+          "link": "/weisman-museum/items/coll0017.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1973"
+        },
+        "text": {
+          "headline": "Celia, Malibu"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/20/full/pct:20/0/default.jpg",
+          "caption": "Peoria",
+          "link": "/weisman-museum/items/coll0020.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Peoria"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/23/full/pct:20/0/default.jpg",
+          "caption": "Five Guys Named Moe",
+          "link": "/weisman-museum/items/coll0023.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1988"
+        },
+        "text": {
+          "headline": "Five Guys Named Moe"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/24/full/pct:20/0/default.jpg",
+          "caption": "E-1957",
+          "link": "/weisman-museum/items/coll0024.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1957"
+        },
+        "text": {
+          "headline": "E-1957"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/25/full/pct:20/0/default.jpg",
+          "caption": "Culver Track A Section I",
+          "link": "/weisman-museum/items/coll0025.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1973"
+        },
+        "text": {
+          "headline": "Culver Track A Section I"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/26/full/pct:20/0/default.jpg",
+          "caption": "Fool's House",
+          "link": "/weisman-museum/items/coll0026.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1972"
+        },
+        "text": {
+          "headline": "Fool's House"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/27/full/pct:20/0/default.jpg",
+          "caption": "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)",
+          "link": "/weisman-museum/items/coll0027.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/29/full/pct:20/0/default.jpg",
+          "caption": "Untitled",
+          "link": "/weisman-museum/items/coll0029.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Untitled"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/30/full/pct:20/0/default.jpg",
+          "caption": "Waiting for Spring",
+          "link": "/weisman-museum/items/coll0030.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "Waiting for Spring"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/31/full/pct:20/0/default.jpg",
+          "caption": "Wagu #1",
+          "link": "/weisman-museum/items/coll0031.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Wagu #1"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/32/full/pct:20/0/default.jpg",
+          "caption": "Man with One Hand to Face",
+          "link": "/weisman-museum/items/coll0032.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1960"
+        },
+        "text": {
+          "headline": "Man with One Hand to Face"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/33/full/pct:20/0/default.jpg",
+          "caption": "Acceptance of Longing (Study) II",
+          "link": "/weisman-museum/items/coll0033.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1997"
+        },
+        "text": {
+          "headline": "Acceptance of Longing (Study) II"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/34/full/pct:20/0/default.jpg",
+          "caption": "Robert's Dilemma",
+          "link": "/weisman-museum/items/coll0034.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1983"
+        },
+        "text": {
+          "headline": "Robert's Dilemma"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/35/full/pct:20/0/default.jpg",
+          "caption": "Chicago",
+          "link": "/weisman-museum/items/coll0035.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Chicago"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/36/full/pct:20/0/default.jpg",
+          "caption": "N-1957",
+          "link": "/weisman-museum/items/coll0036.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1957"
+        },
+        "text": {
+          "headline": "N-1957"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/37/full/pct:20/0/default.jpg",
+          "caption": "Walking Man",
+          "link": "/weisman-museum/items/coll0037.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1985"
+        },
+        "text": {
+          "headline": "Walking Man"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/38/full/pct:20/0/default.jpg",
+          "caption": "Llave",
+          "link": "/weisman-museum/items/coll0038.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Llave"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/39/full/pct:20/0/default.jpg",
+          "caption": "Untitled (From the Grand Hotel series)",
+          "link": "/weisman-museum/items/coll0039.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Untitled (From the Grand Hotel series)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/40/full/pct:20/0/default.jpg",
+          "caption": "Wrapped Tree Project",
+          "link": "/weisman-museum/items/coll0040.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1979"
+        },
+        "text": {
+          "headline": "Wrapped Tree Project"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/41/full/pct:20/0/default.jpg",
+          "caption": "S-1957",
+          "link": "/weisman-museum/items/coll0041.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1957"
+        },
+        "text": {
+          "headline": "S-1957"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/42/full/pct:20/0/default.jpg",
+          "caption": "Distant Hills",
+          "link": "/weisman-museum/items/coll0042.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "Distant Hills"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/43/full/pct:20/0/default.jpg",
+          "caption": "Oriental Landscape",
+          "link": "/weisman-museum/items/coll0043.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Oriental Landscape"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/44/full/pct:20/0/default.jpg",
+          "caption": "The Billionaire Deluxe",
+          "link": "/weisman-museum/items/coll0044.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1977"
+        },
+        "text": {
+          "headline": "The Billionaire Deluxe"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/45/full/pct:20/0/default.jpg",
+          "caption": "Admirer",
+          "link": "/weisman-museum/items/coll0045.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1983"
+        },
+        "text": {
+          "headline": "Admirer"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/46/full/pct:20/0/default.jpg",
+          "caption": "Thursday August 1st 1968 Fresno #2",
+          "link": "/weisman-museum/items/coll0046.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1968"
+        },
+        "text": {
+          "headline": "Thursday August 1st 1968 Fresno #2"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/47/full/pct:20/0/default.jpg",
+          "caption": "Red Badge of Course #10",
+          "link": "/weisman-museum/items/coll0047.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1987"
+        },
+        "text": {
+          "headline": "Red Badge of Course #10"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/48/full/pct:20/0/default.jpg",
+          "caption": "Cover II",
+          "link": "/weisman-museum/items/coll0048.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1981"
+        },
+        "text": {
+          "headline": "Cover II"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/49/full/pct:20/0/default.jpg",
+          "caption": "H-1957",
+          "link": "/weisman-museum/items/coll0049.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1957"
+        },
+        "text": {
+          "headline": "H-1957"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/50/full/pct:20/0/default.jpg",
+          "caption": "Haku Mele",
+          "link": "/weisman-museum/items/coll0050.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Haku Mele"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/51/full/pct:20/0/default.jpg",
+          "caption": "Untitled",
+          "link": "/weisman-museum/items/coll0051.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "Untitled"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/52/full/pct:20/0/default.jpg",
+          "caption": "Untitled",
+          "link": "/weisman-museum/items/coll0052.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "Untitled"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/53/full/pct:20/0/default.jpg",
+          "caption": "Phil (BAM)",
+          "link": "/weisman-museum/items/coll0053.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Phil (BAM)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/54/full/pct:20/0/default.jpg",
+          "caption": "Briar Hopper",
+          "link": "/weisman-museum/items/coll0054.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Briar Hopper"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/55/full/pct:20/0/default.jpg",
+          "caption": "Cat Face Woman",
+          "link": "/weisman-museum/items/coll0055.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1987"
+        },
+        "text": {
+          "headline": "Cat Face Woman"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/56/full/pct:20/0/default.jpg",
+          "caption": "Neighbourhood Ridge",
+          "link": "/weisman-museum/items/coll0056.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Neighbourhood Ridge"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/57/full/pct:20/0/default.jpg",
+          "caption": "A Lot More of Ann Combing her Hair",
+          "link": "/weisman-museum/items/coll0057.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1979"
+        },
+        "text": {
+          "headline": "A Lot More of Ann Combing her Hair"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/58/full/pct:20/0/default.jpg",
+          "caption": "The Only Way Out Is In",
+          "link": "/weisman-museum/items/coll0058.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1984"
+        },
+        "text": {
+          "headline": "The Only Way Out Is In"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/59/full/pct:20/0/default.jpg",
+          "caption": "100 Breaths, #75 and 100 Breaths, #106",
+          "link": "/weisman-museum/items/coll0059.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "100 Breaths, #75 and 100 Breaths, #106"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/60/full/pct:20/0/default.jpg",
+          "caption": "Untitled (MELBK 84)",
+          "link": "/weisman-museum/items/coll0060.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Untitled (MELBK 84)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/61/full/pct:20/0/default.jpg",
+          "caption": "Vino",
+          "link": "/weisman-museum/items/coll0061.html",
+          "credit": "Frederick R. Weisman Museum of Art Collection"
+        },
+        "start_date": { 
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Vino"
+        }
+      }
     ]
 }
