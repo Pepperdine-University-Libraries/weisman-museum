@@ -4,7 +4,8 @@ layout: cloud
 permalink: /types.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.medium-fields"
-cloud-fields: site.data.theme.medium-fields
+#cloud-fields: site.data.theme.medium-fields
+cloud-fields: medium
 ---
 
 ## Browse Types
