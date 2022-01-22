@@ -19,5 +19,3 @@ This demo collection features items from the Pepperdine University’s [Weisman 
 CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
 
 Items from this collection are digital captures of artwork from Pepperdine University’s Frederick R. Weisman Museum of Art. Visit the [Weisman Museum's website](https://arts.pepperdine.edu/museum/) to learn more about the museum and their current offerings. 
-
-#{% include cb/feature_options.md %}
