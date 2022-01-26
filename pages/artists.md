@@ -1,7 +1,7 @@
 ---
 title: Artists
 layout: cloud
-permalink: /artist.html
+permalink: /artists.html
 # Default subject page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.artist-fields"
 #cloud-fields: site.data.theme.artist-fields
