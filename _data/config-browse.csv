@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Artists,true,,
+artist,Artists,true,,
 medium,Type,true,,
