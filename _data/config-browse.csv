@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Artists,true,,
-object type,Type,true,,
+object-type,Type,true,,
