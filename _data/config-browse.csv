@@ -1,5 +1,4 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-Medium and Support,Medium,
-Object Type,,true
+creator,Artists,,true
+object,Type,,true
