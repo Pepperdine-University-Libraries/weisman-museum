@@ -39,7 +39,7 @@
 
 
 <!-- Analytics --> 
-<!-- Last build date: 2022-01-31 -->
+<!-- Last build date: 2022-02-02 -->
   </head>
   <body>
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -267,35 +267,6 @@ function makeCard(obj) {
     card += obj["date"];
     
     card += '<br>';
-    }
-    
-    if(obj["creator"]){
-    card += '<strong>Creator:</strong> ';
-    
-    card += obj["creator"];
-    
-    card += '<br>';
-    }
-    
-    if(obj["Medium and Support"]){
-    card += '<strong>Medium:</strong> ';
-    
-    card += obj["Medium and Support"];
-    
-    card += '<br>';
-    }
-    
-    if(obj["Object Type"]){
-    
-    
-    var btns = obj["Object Type"].split(";");
-    for (var i = 0, len = btns.length; i < len; i++) {
-        if(btns[i] != "") {
-        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/weisman-museum/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
-        }
-    }
-    
-    
     }
     
     card += '</p>';
