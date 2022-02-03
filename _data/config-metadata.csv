@@ -4,15 +4,15 @@ artist,Artists,,DCTERMS.creator,artist
 date,Date Created,,DCTERMS.created,dateCreated
 date-is-approximate,Approximated Date
 description,Description,,DCTERMS.description,description
-medium,Type,
-Object Type,Object Type,
+medium,Types,
+objecttype,Mediums,
 Dimensions,Dimensions,
 Donor,Donor,
 Photographer,Photographer,
 Publisher (Digital),Publisher (Digital),
 Place of Creation,Place of Creation,
 Accession Number,Accession Number,
-Valuation,Valuation,
-Valuation Date,Valuation Date,
-Valuation Source,Valuation Source,
-reference-url,CDM Source,
+valuation,Valuation,
+valuationdate,Valuation Date,
+valuationsource,Valuation Source,
+contentdmfilename,CDM Source,
