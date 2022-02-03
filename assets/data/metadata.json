@@ -1,4 +1,7 @@
 { "objects": [{ 
+        
+        
+        "cdmid": "6",
         "title": "Cougar II",
         
         
@@ -9,26 +12,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.19",
+        "filename": "weisman00050.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "45.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/6",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/6/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "7",
         "title": "Cougar II",
         
         
@@ -39,56 +42,56 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.19",
+        "filename": "weisman00051.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "46.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/7",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/7/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll008",
+        "compound": "6;7",
+        "cdmid": "8",
         "title": "Cougar II",
         "artist": "Murrill, Gwynn",
         "date": "1990",
+        "medium": "Bronze Sculpture",
+        "objecttype": "Sculpture",
+        "dimensions": "11 in x 75 in x 30 in, Sculptural",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.19",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$65,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "47.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/8",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/8/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll008.html"
     },
     { 
+        
+        
+        "cdmid": "9",
         "title": "Quasar-Light",
         
         
@@ -99,26 +102,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2000.1.0",
+        "filename": "weisman00040.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "48.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/9",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/9/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "10",
         "title": "Quasar-Light",
         
         
@@ -129,56 +132,56 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2000.1.0",
+        "filename": "weisman00041.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "49.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/10",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/10/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll0011",
+        "compound": "9;10",
+        "cdmid": "11",
         "title": "Quasar-Light",
         "artist": "Stanczak, Julian",
-        "date": "1974, 1978",
+        "date": "1974;1978",
+        "medium": "Acrylic on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "80 in x 60 in, Unframed",
         
+        "donor": "Neil Rector",
+        "photographer": "Professional",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2000.1.0",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$26,500",
+        "valuationdate": "1999-12-08",
+        "valuationsource": "The Bonfoey Company",
+        "contentdmfilename": "50.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/11",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/11/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0011.html"
     },
     { 
+        
+        
+        "cdmid": "12",
         "title": "Carmen from the Merry Go World",
         
         
@@ -189,26 +192,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.15",
+        "filename": "weisman00046.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "51.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/12",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/12/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "13",
         "title": "Carmen from the Merry Go World",
         
         
@@ -219,56 +222,56 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.15",
+        "filename": "weisman00047.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "52.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/13",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/13/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll0014",
+        "compound": "12;13",
+        "cdmid": "14",
         "title": "Carmen from the Merry Go World",
         "artist": "Kienholz, Edward; Reddin, Nancy",
         "date": "1991",
+        "medium": "Mixed Media Assemblage",
+        "objecttype": "Mixed Media",
+        "dimensions": "42 1/2 in x 31 1/2 in x 7 1/4 in, Sculptural",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Professional",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.15",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$150,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "53.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/14",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/14/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0014.html"
     },
     { 
+        
+        
+        "cdmid": "15",
         "title": "Celia, Malibu",
         
         
@@ -279,26 +282,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.10",
+        "filename": "weisman00042.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "54.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/15",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/15/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "16",
         "title": "Celia, Malibu",
         
         
@@ -309,56 +312,56 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.10",
+        "filename": "weisman00043.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "55.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/16",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/16/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll0017",
+        "compound": "15;16",
+        "cdmid": "17",
         "title": "Celia, Malibu",
         "artist": "Hockney, David",
         "date": "1973",
+        "medium": "Ink Drawing on Paper",
+        "objecttype": "Drawing",
+        "dimensions": "17 in x 13 1/2 in, Framed",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.10",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$65,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "56.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/17",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/17/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0017.html"
     },
     { 
+        
+        
+        "cdmid": "18",
         "title": "Peoria",
         
         
@@ -369,26 +372,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.5",
+        "filename": "weisman00044.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "57.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/18",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/18/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "19",
         "title": "Peoria",
         
         
@@ -399,56 +402,56 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "2011.5.5",
+        "filename": "weisman00045.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "58.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/19",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/19/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll0020",
+        "compound": "18;19",
+        "cdmid": "20",
         "title": "Peoria",
         "artist": "Colson, Greg",
         "date": "1993",
+        "medium": "ink and enamel on wood, metal and plastic",
+        "objecttype": "Mixed Media",
+        "dimensions": "72 3/4 in x 60 in x 5 1/4 in, Unframed",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Professional",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.5",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$25,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "59.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/20",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/20/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0020.html"
     },
     { 
+        
+        
+        "cdmid": "21",
         "title": "Five Guys Named Moe",
         
         
@@ -459,26 +462,26 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "1993.1.0",
+        "filename": "weisman00048.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "60.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/21",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/21/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        
+        
+        "cdmid": "22",
         "title": "Five Guys Named Moe",
         
         
@@ -489,1191 +492,1188 @@
         
         
         
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
         
-        
-        
-        
-        
-        
-        
-        
+        "accession": "1993.1.0",
+        "filename": "weisman00049.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
         
         
         
         
-        "format": "image/jpeg",
+        "contentdmfilename": "61.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/22",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/22/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/.html"
     },
     { 
+        "objectid": "coll0023",
+        "compound": "21;22",
+        "cdmid": "23",
         "title": "Five Guys Named Moe",
         "artist": "Saar, Allison",
         "date": "1988",
+        "medium": "Mixed Media",
+        "objecttype": "Sculpture",
+        "dimensions": "79 in x 23 in x 18 in, Free Standing",
         
+        "donor": "Frederick R. Weisman Art Foundation",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1993.1.0",
         
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$250",
+        "valuationdate": "1993-02-11",
+        "valuationsource": "Jan Baum Gallery",
+        "contentdmfilename": "62.cpd",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/23",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/23/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0023.html"
     },
     { 
+        "objectid": "coll0024",
+        
+        "cdmid": "24",
         "title": "E-1957",
         "artist": "McLaughlin, John",
         "date": "1957",
+        "medium": "Oil on Fabric",
+        "objecttype": "Painting",
+        "dimensions": "48 in x 36 in, Framed",
+        
+        "donor": "Unknown",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1000.1.3",
+        "filename": "weisman00016.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$650",
+        "valuationdate": "1990-09-10",
+        "valuationsource": "Andre Emmerich Gallery Inc.",
+        "contentdmfilename": "37.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/24",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/24/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0024.html"
     },
     { 
+        "objectid": "coll0025",
+        
+        "cdmid": "25",
         "title": "Culver Track A Section I",
         "artist": "Moses, Ed",
         "date": "1973",
+        "medium": "Acrylic on Paper transfer painting backed w/ nylon",
+        "objecttype": "Painting",
+        "dimensions": "70 in x 66 in, Unframed",
         
+        "donor": "Julie Newmar",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2004.2.0",
+        "filename": "weisman00025.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "?",
+        "valuationdate": "?",
+        "valuationsource": "?",
+        "contentdmfilename": "19.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/25",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/25/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0025.html"
     },
     { 
+        "objectid": "coll0026",
+        
+        "cdmid": "26",
         "title": "Fool's House",
         "artist": "Johns, Jasper",
         "date": "1972",
+        "medium": "Lithograph",
+        "objecttype": "Lithograph",
+        "dimensions": "44 in x 29 in, Framed",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.12",
+        "filename": "weisman00017.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$10,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "17.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/26",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/26/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0026.html"
     },
     { 
+        "objectid": "coll0027",
+        
+        "cdmid": "27",
         "title": "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)",
         "artist": "Kelley, Mike",
         "date": "1990",
+        "medium": "Acrylic Painting on panel and found handmade doll",
+        "objecttype": "Mixed Media Sculpture",
+        "dimensions": "4 1/2 in x 12 in x 26 in, Unframed",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.13",
+        "filename": "weisman00021.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$250,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "25.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/27",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/27/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0027.html"
     },
     { 
+        "objectid": "coll0028",
+        
+        "cdmid": "28",
         "title": "Untitled (From Torn Sky series)",
         "artist": "Goode, Joe",
         
+        "medium": "Oil on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "84 in x 84 in",
+        
+        "donor": "Nora Halpern",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1992.5.0",
+        "filename": "weisman00005.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$45,000",
+        "valuationdate": "1993-03-10",
+        "valuationsource": "James Corcoran Gallery",
+        "contentdmfilename": "35.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/28",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/28/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0028.html"
     },
     { 
+        "objectid": "coll0029",
+        
+        "cdmid": "29",
         "title": "Untitled",
         "artist": "Hawkinson, Tim",
         "date": "1990",
+        "medium": "Enamel paint and animal skins on unprimed canvas.",
+        "objecttype": "Painting",
+        "dimensions": "14 in x 17 in, Framed",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.9",
+        "filename": "weisman00020.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$30,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "18.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/29",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/29/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0029.html"
     },
     { 
+        "objectid": "coll0030",
+        
+        "cdmid": "30",
         "title": "Waiting for Spring",
         "artist": "Carnwath, Squeak",
         "date": "1992",
+        "medium": "Oil on Linen",
+        "objecttype": "Painting",
+        "dimensions": "36 in x 36in, Framed",
+        
+        "donor": "Christina Weiss Lurie",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2013.3.1",
+        "filename": "weisman00038.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$30,000",
+        "valuationdate": "2013-12-19",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "34.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/30",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/30/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0030.html"
     },
     { 
+        "objectid": "coll0031",
+        
+        "cdmid": "31",
         "title": "Wagu #1",
         "artist": "Moses, Ed",
         "date": "1993",
+        "medium": "Oil and Acrylic on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "75 in x 60 in, Unframed",
+        
+        "donor": "Jean Morel",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2001.4.0",
+        "filename": "weisman00006.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$42,000",
+        "valuationdate": "2002-01-08",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "42.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/31",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/31/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0031.html"
     },
     { 
+        "objectid": "coll0032",
+        
+        "cdmid": "32",
         "title": "Man with One Hand to Face",
         "artist": "Olievera, Nathan",
         "date": "1960",
+        "medium": "Oil Painting on canvas",
+        "objecttype": "Painting",
+        "dimensions": "30 in x 24 in, Framed",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.20",
+        "filename": "weisman00028.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$30,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "44.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/32",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/32/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0032.html"
     },
     { 
+        "objectid": "coll0033",
+        
+        "cdmid": "33",
         "title": "Acceptance of Longing (Study) II",
         "artist": "Celaya, Enrique Martinez",
         "date": "1997",
+        "medium": "Oil and Graphite on Paper",
+        "objecttype": "Painting",
+        "dimensions": "36 in x 64 in",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.16",
+        "filename": "weisman00012.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$12,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "24.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/33",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/33/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0033.html"
     },
     { 
+        "objectid": "coll0034",
+        
+        "cdmid": "34",
         "title": "Robert's Dilemma",
         "artist": "Morphesis, Jim",
         "date": "1983",
+        "medium": "Oil, Magna, Nails, Gold Leaf on Wood Panel",
+        "objecttype": "Painting",
+        "dimensions": "51 in x 70 in x 6 1/2 in,Unframed",
         
+        "donor": "Robert Broder",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1997.8.0",
+        "filename": "weisman00032.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$12,000",
+        "valuationdate": "1998-08-05",
+        "valuationsource": "Singer, Burke, and Company",
+        "contentdmfilename": "21.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/34",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/34/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0034.html"
     },
     { 
+        "objectid": "coll0035",
+        
+        "cdmid": "35",
         "title": "Chicago",
         "artist": "Register, John",
         "date": "1989",
+        "medium": "Oil on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "51 in x 71 in, Unframed",
+        
+        "donor": "Eric and Peggy Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2006.4.17",
+        "filename": "weisman00013.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$100,000",
+        "valuationdate": "2007-03-02",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "20.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/35",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/35/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0035.html"
     },
     { 
+        "objectid": "coll0036",
+        
+        "cdmid": "36",
         "title": "N-1957",
         "artist": "McLaughlin, John",
         "date": "1957",
+        "medium": "Oil on Fabric",
+        "objecttype": "Painting",
+        "dimensions": "54 in x 42 in, Framed",
+        
+        "donor": "Unknown",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1000.1.1",
+        "filename": "weisman00026.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$650",
+        "valuationdate": "1990-09-19",
+        "valuationsource": "Andre Emmerich Gallery Inc.",
+        "contentdmfilename": "23.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/36",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/36/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0036.html"
     },
     { 
+        "objectid": "coll0037",
+        
+        "cdmid": "37",
         "title": "Walking Man",
         "artist": "Mullican, Lee",
         "date": "1985",
+        "medium": "Bronze",
+        "objecttype": "Sculpture",
+        "dimensions": "76 in x 54 in x 24 in, Sculptural",
+        
+        "donor": "Luchita Hurtado Mullican",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2007.3.1",
+        "filename": "weisman00039.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$60,000",
+        "valuationdate": "2007-03-15",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "14.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/37",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/37/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0037.html"
     },
     { 
+        "objectid": "coll0038",
+        
+        "cdmid": "38",
         "title": "Llave",
         "artist": "Saar, Betty",
         "date": "1989",
+        "medium": "Mixed Media wall assemblage",
+        "objecttype": "Assemblage",
+        "dimensions": "10 1/2 in x 8 in x 1 1/2 in, Sculptural",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.23",
+        "filename": "weisman00022.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$13,500",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "8.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/38",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/38/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0038.html"
     },
     { 
+        "objectid": "coll0039",
+        
+        "cdmid": "39",
         "title": "Untitled (From the Grand Hotel series)",
         "artist": "Nicandro, Gluglio Gronk",
         "date": "1989",
+        "medium": "Acrylic on Paper",
+        "objecttype": "Painting",
+        "dimensions": "25 in x 21 in, Framed",
+        
+        "donor": "Eric and Peggy Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2006.4.8",
+        "filename": "weisman00004.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$1,200",
+        "valuationdate": "2007-03-02",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "27.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/39",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/39/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0039.html"
     },
     { 
+        "objectid": "coll0040",
+        
+        "cdmid": "40",
         "title": "Wrapped Tree Project",
         "artist": "Christo",
         "date": "1979",
+        "medium": "Color Lithograph with collage pieces",
+        "objecttype": "Painting",
+        "dimensions": "28 in x 34 in",
         
+        "donor": "Eric and Peggy Lieber",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2006.4.3",
+        "filename": "weisman00014.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$2,000",
+        "valuationdate": "2007-03-02",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "11.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/40",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/40/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0040.html"
     },
     { 
+        "objectid": "coll0041",
+        
+        "cdmid": "41",
         "title": "S-1957",
         "artist": "McLaughlin, John",
         "date": "1957",
+        "medium": "Oil on Fabric",
+        "objecttype": "Painting",
+        "dimensions": "30 in x 32 in, Framed",
+        
+        "donor": "Unknown",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1000.1.4",
+        "filename": "weisman00033.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$580",
+        "valuationdate": "1990-09-19",
+        "valuationsource": "Andre Emmerich Gallery Inc.",
+        "contentdmfilename": "15.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/41",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/41/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0041.html"
     },
     { 
+        "objectid": "coll0042",
+        
+        "cdmid": "42",
         "title": "Distant Hills",
         "artist": "Secunda, Arthur",
         "date": "1976",
+        "medium": "Oil and Carved Wood",
+        "objecttype": "Painting",
+        "dimensions": "38 in x 19 in, Unframed",
+        
+        "donor": "C. Edward Wall",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1997.10.0",
+        "filename": "weisman00007.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$12,000",
+        "valuationdate": "?",
+        "valuationsource": "?",
+        "contentdmfilename": "7.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/42",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/42/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0042.html"
     },
     { 
+        "objectid": "coll0043",
+        
+        "cdmid": "43",
         "title": "Oriental Landscape",
         "artist": "Berlant, Tony",
         "date": "1965",
+        "medium": "Mixed Media on Panel",
+        "objecttype": "Mixed media",
+        "dimensions": "38 in x 48 in, Unframed",
         
+        "donor": "Dr. and Mrs. Leon Banks",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2002.5.3",
+        "filename": "weisman00009.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Moving Image",
+        "valuation": "$24,000",
+        "valuationdate": "2004-12-14",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "28.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/43",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/43/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0043.html"
     },
     { 
+        "objectid": "coll0044",
+        
+        "cdmid": "44",
         "title": "The Billionaire Deluxe",
         "artist": "Kienholz, Edward",
         "date": "1977",
+        "medium": "Mixed Media Sculptural Multiple",
+        "objecttype": "Mixed Media",
+        "dimensions": "11 in x 15 1/8 in x 14 in, Sculptural",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.14",
+        "filename": "weisman00034.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$3,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "40.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/44",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/44/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0044.html"
     },
     { 
+        "objectid": "coll0045",
+        
+        "cdmid": "45",
         "title": "Admirer",
         "artist": "McNeil, George",
         "date": "1983",
+        "medium": "Oil on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "56 in  x 58 in, Unframed",
+        
+        "donor": "Mrs. Victor (Linda) Weingarten",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2001.5.0",
+        "filename": "weisman00001.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$27,000",
+        "valuationdate": "2002-01-09",
+        "valuationsource": "Jeffrey Fuller Fine Art, Ltd.",
+        "contentdmfilename": "13.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/45",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/45/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0045.html"
     },
     { 
+        "objectid": "coll0046",
+        
+        "cdmid": "46",
         "title": "Thursday August 1st 1968 Fresno #2",
         "artist": "Saroyan, William",
         "date": "1968",
+        "medium": "Watercolor (and possibly gouache) on thin paper",
+        "objecttype": "Painting",
+        "dimensions": "22 in x 34 in",
+        
+        "donor": "Robert Setrakian",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2007.1.1",
+        "filename": "weisman00036.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "?",
+        "valuationdate": "?",
+        "valuationsource": "?",
+        "contentdmfilename": "30.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/46",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/46/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0046.html"
     },
     { 
+        "objectid": "coll0047",
+        
+        "cdmid": "47",
         "title": "Red Badge of Course #10",
         "artist": "Rollins, Tim; K.O.S.",
         "date": "1987",
+        "medium": "Watercolor on 24 book pages",
+        "objecttype": "Collage",
+        "dimensions": "36 in x 25 in, Unframed",
+        
+        "donor": "Leonard Rosenberg",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2003.10.3",
+        "filename": "weisman00031.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$7,500",
+        "valuationdate": "2004-01-09",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "12.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/47",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/47/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0047.html"
     },
     { 
+        "objectid": "coll0048",
+        
+        "cdmid": "48",
         "title": "Cover II",
         "artist": "Nickson, Graham",
         "date": "1981",
+        "medium": "Charcoal on paper",
+        "objecttype": "Painting",
+        "dimensions": "27 in x 53 in, Unframed",
+        
+        "donor": "Sherry French",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2010.2.2",
+        "filename": "weisman00015.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$14,000",
+        "valuationdate": "2010-07-01",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "16.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/48",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/48/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0048.html"
     },
     { 
+        "objectid": "coll0049",
+        
+        "cdmid": "49",
         "title": "H-1957",
         "artist": "McLaughlin, John",
         "date": "1957",
+        "medium": "Oil on Fabric",
+        "objecttype": "Painting",
+        "dimensions": "48 in x 36 in, Framed",
+        
+        "donor": "Unknown",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1000.1.2",
+        "filename": "weisman00018.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$650",
+        "valuationdate": "1990-09-19",
+        "valuationsource": "Andre Emmerich Gallery Inc.",
+        "contentdmfilename": "26.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/49",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/49/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0049.html"
     },
     { 
+        "objectid": "coll0050",
+        
+        "cdmid": "50",
         "title": "Haku Mele",
         "artist": "Butterfield, Deborah",
         "date": "1991",
+        "medium": "Cast Bronze Sculpture",
+        "objecttype": "Sculpture",
+        "dimensions": "77 in x 103 in x 29 in, Sculptural",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.3",
+        "filename": "weisman00019.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$250,000",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "32.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/50",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/50/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0050.html"
     },
     { 
+        "objectid": "coll0051",
+        
+        "cdmid": "51",
         "title": "Untitled",
         "artist": "Basquiat, Jean-Michael",
         "date": "1982",
+        "medium": "Crayon and Oilstick drawing on paper",
+        "objecttype": "Painting",
+        "dimensions": "22 in x 30 in, Framed",
         
+        "donor": "Peggy and Eric Lieber",
+        "photographer": "Professional",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.2",
+        "filename": "weisman00008.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$300,000",
+        "valuationdate": "2012-03-03",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "36.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/51",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/51/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0051.html"
     },
     { 
+        "objectid": "coll0052",
+        
+        "cdmid": "52",
         "title": "Untitled",
         "artist": "Corse, Mary",
         "date": "1976",
+        "medium": "Oil and Glitter on Canvas",
+        "objecttype": "Painting",
+        "dimensions": "60 in x 60 in",
+        
+        "donor": "W Robert Ramsdell and Marjorie F. Ramsdell",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1995.2.0",
+        "filename": "weisman00023.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$120",
+        "valuationdate": "1995-10-23",
+        "valuationsource": "Ace Contemporary Exhibitions",
+        "contentdmfilename": "9.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/52",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/52/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0052.html"
     },
     { 
+        "objectid": "coll0053",
+        
+        "cdmid": "53",
         "title": "Phil (BAM)",
         "artist": "Close, Chuck",
         "date": "1991",
+        "medium": "Woven Silk Tapestry",
+        "objecttype": "Tapestry",
+        "dimensions": "51 in x 39 in, Framed",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.4",
+        "filename": "weisman00030.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$4,800",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "39.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/53",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/53/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0053.html"
     },
     { 
+        "objectid": "coll0054",
+        
+        "cdmid": "54",
         "title": "Briar Hopper",
         "artist": "Arnoldi, Charles",
         "date": "1991",
+        "medium": "Cast Bronze",
+        "objecttype": "Sculpture",
+        "dimensions": "126 in x 25 in x 15 in, Free Standing",
+        
+        "donor": "Frederick R. Weisman Art Foundation",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "1993.2.0",
+        "filename": "weisman00010.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$65,000",
+        "valuationdate": "?",
+        "valuationsource": "?",
+        "contentdmfilename": "41.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/54",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/54/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0054.html"
     },
     { 
+        "objectid": "coll0055",
+        
+        "cdmid": "55",
         "title": "Cat Face Woman",
         "artist": "Murrill, Gywnn",
         "date": "1987",
+        "medium": "Bronze Sculpture on artist's concrete pedestal",
+        "objecttype": "Sculpture",
+        "dimensions": "50 in x 42 in x 22 in, Sculptural",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.18",
+        "filename": "weisman00011.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$9,500",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "43.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/55",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/55/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0055.html"
     },
     { 
+        "objectid": "coll0056",
+        
+        "cdmid": "56",
         "title": "Neighbourhood Ridge",
         "artist": "Thiebaud, Wayne",
         "date": "1984",
+        "medium": "Etching and Aquatint",
+        "objecttype": "Print",
+        "dimensions": "25 in x 20 in, Framed",
+        
+        "donor": "Eric and Peggy Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2006.4.19",
+        "filename": "weisman00027.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$10,000",
+        "valuationdate": "2002-12-24",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "22.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/56",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/56/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0056.html"
     },
     { 
+        "objectid": "coll0057",
+        
+        "cdmid": "57",
         "title": "A Lot More of Ann Combing her Hair",
         "artist": "Hockney, David",
         "date": "1979",
+        "medium": "Lithograph",
+        "objecttype": "Lithographs",
+        "dimensions": "49 in x 36 in, Framed",
+        
+        "donor": "Peggy and Eric Lieber",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2011.5.11",
+        "filename": "weisman00003.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$3,750",
+        "valuationdate": "2012-03-23",
+        "valuationsource": "Jaqueline Silverman and Associates",
+        "contentdmfilename": "10.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/57",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/57/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0057.html"
     },
     { 
+        "objectid": "coll0058",
+        
+        "cdmid": "58",
         "title": "The Only Way Out Is In",
         "artist": "Warhol, Andy",
         "date": "1984",
+        "medium": "Silkscreen Ink on Sild",
+        "objecttype": "Silkscreen",
+        "dimensions": "35 in x 34 in, Unframed",
+        
+        "donor": "Henry Holmes",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2003.1.6",
+        "filename": "weisman00035.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$10,000",
+        "valuationdate": "2002-12-24",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "29.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/58",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/58/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0058.html"
     },
     { 
+        "objectid": "coll0059",
+        
+        "cdmid": "59",
         "title": "100 Breaths, #75 and 100 Breaths, #106",
         "artist": "Alberquerque, Lita",
         "date": "1989",
+        "medium": "Lithographic Monoprint",
+        "objecttype": "Lithographs",
+        "dimensions": "19 in x 51 in",
         
+        "donor": "Stuart H. and Heather Salsbury",
+        "photographer": "Ron Hall",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2007.2.1 and 2007.2.2",
+        "filename": "weisman00002.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$2,200 and $2,200",
+        "valuationdate": "2006-12-20",
+        "valuationsource": "Howard Zellman",
+        "contentdmfilename": "38.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/59",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/59/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0059.html"
     },
     { 
+        "objectid": "coll0060",
+        
+        "cdmid": "60",
         "title": "Untitled (MELBK 84)",
         "artist": "Bell, Larry",
         "date": "1984",
+        "medium": "Vapor Drawing",
+        "objecttype": "Drawing",
+        "dimensions": "29 in x 22 in, Unframed",
+        
+        "donor": "Mr. Frank A. Caput",
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2002.4.0",
+        "filename": "weisman00037.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$6,800",
+        "valuationdate": "2003-01-15",
+        "valuationsource": "Art Resource Group",
+        "contentdmfilename": "33.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/60",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/60/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0060.html"
     },
     { 
+        "objectid": "coll0061",
+        
+        "cdmid": "61",
         "title": "Vino",
         "artist": "Paschke, Ed",
         "date": "1991",
+        "medium": "Oil on Linen",
+        "objecttype": "Painting",
+        "dimensions": "36 in x 48 in, Unframed",
         
+        "donor": "Stanley Hollander",
+        "photographer": "Professional",
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        "publisher": "Pepperdine University Libraries",
+        "format": "image/jpeg",
+        "digitalcollection": "Frederick R. Weisman Museum Art Digital Collection",
+        "accession": "2003.8.2",
+        "filename": "weisman00029.jpg",
         
         "rights": "© Frederick R. Weisman Museum. Republished with permission. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners.",
-        
-        
-        
-        
-        "format": "image/jpeg",
+        "type": "Still Image",
+        "valuation": "$28,000",
+        "valuationdate": "2004-11-22",
+        "valuationsource": "Michael Maloney",
+        "contentdmfilename": "31.jp2",
         "object_thumb": "https://cdm15730.contentdm.oclc.org/utils/getthumbnail/collection/p15730coll35/id/61",
         "object_download": "https://cdm15730.contentdm.oclc.org/digital/iiif/p15730coll35/61/full/max/0/default.jpg",
         "reference_url": "https://pepperdine-university-libraries.github.io/weisman-museum/items/coll0061.html"
