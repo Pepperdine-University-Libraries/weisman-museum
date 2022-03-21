@@ -245,7 +245,7 @@
         "title": "Carmen from the Merry Go World",
         "artist": "Kienholz, Edward; Reddin, Nancy",
         "date": "1991",
-        "medium": "Mixed Media Assemblage",
+        "medium": "Assemblage",
         "objecttype": "Mixed Media",
         "dimensions": "42 1/2 in x 31 1/2 in x 7 1/4 in, Sculptural",
         
@@ -335,7 +335,7 @@
         "title": "Celia, Malibu",
         "artist": "Hockney, David",
         "date": "1973",
-        "medium": "Ink Drawing on Paper",
+        "medium": "Ink on paper",
         "objecttype": "Drawing",
         "dimensions": "17 in x 13 1/2 in, Framed",
         
@@ -513,7 +513,7 @@
         "compound": "21;22",
         "cdmid": "23",
         "title": "Five Guys Named Moe",
-        "artist": "Saar, Allison",
+        "artist": "Saar, Alison",
         "date": "1988",
         "medium": "Mixed Media",
         "objecttype": "Sculpture",
@@ -635,8 +635,8 @@
         "title": "Empathy Displacement: Humanoid Morphology (2nd and 3rd Morphology)",
         "artist": "Kelley, Mike",
         "date": "1990",
-        "medium": "Acrylic Painting on panel and found handmade doll",
-        "objecttype": "Mixed Media Sculpture",
+        "medium": "Acrylic painting on panel and found handmade doll with painted wood box",
+        "objecttype": "Mixed media installation",
         "dimensions": "4 1/2 in x 12 in x 26 in, Unframed",
         
         "donor": "Peggy and Eric Lieber",
@@ -785,7 +785,7 @@
         "title": "Man with One Hand to Face",
         "artist": "Olievera, Nathan",
         "date": "1960",
-        "medium": "Oil Painting on canvas",
+        "medium": "Oil on canvas",
         "objecttype": "Painting",
         "dimensions": "30 in x 24 in, Framed",
         
@@ -963,7 +963,7 @@
         
         "cdmid": "38",
         "title": "Llave",
-        "artist": "Saar, Betty",
+        "artist": "Saar, Betye",
         "date": "1989",
         "medium": "Mixed Media wall assemblage",
         "objecttype": "Assemblage",
@@ -1025,7 +1025,7 @@
         "title": "Wrapped Tree Project",
         "artist": "Christo",
         "date": "1979",
-        "medium": "Color Lithograph with collage pieces",
+        "medium": "Color Lithograph with collage",
         "objecttype": "Painting",
         "dimensions": "28 in x 34 in",
         
@@ -1232,11 +1232,11 @@
         "objectid": "coll0047",
         
         "cdmid": "47",
-        "title": "Red Badge of Course #10",
+        "title": "Red Badge of Courage #10",
         "artist": "Rollins, Tim; K.O.S.",
         "date": "1987",
         "medium": "Watercolor on 24 book pages",
-        "objecttype": "Collage",
+        "objecttype": "Painting",
         "dimensions": "36 in x 25 in, Unframed",
         
         "donor": "Leonard Rosenberg",
@@ -1565,7 +1565,7 @@
         "title": "The Only Way Out Is In",
         "artist": "Warhol, Andy",
         "date": "1984",
-        "medium": "Silkscreen Ink on Sild",
+        "medium": "Silkscreen on silk",
         "objecttype": "Silkscreen",
         "dimensions": "35 in x 34 in, Unframed",
         
@@ -1593,7 +1593,7 @@
         
         "cdmid": "59",
         "title": "100 Breaths, #75 and 100 Breaths, #106",
-        "artist": "Alberquerque, Lita",
+        "artist": "Albuquerque, Lita",
         "date": "1989",
         "medium": "Lithographic Monoprint",
         "objecttype": "Lithographs",
